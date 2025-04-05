@@ -1,0 +1,11 @@
+{
+    "name": "BudgetUtilsModule",
+    "alias": "budgetutilsmodule",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\BudgetUtilsModule\\Providers\\BudgetUtilsModuleServiceProvider"
+    ],
+    "files": []
+}

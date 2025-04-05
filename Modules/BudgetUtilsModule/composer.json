@@ -1,0 +1,31 @@
+{
+    "name": "nwidart/budgetutilsmodule",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\BudgetUtilsModule\\": "",
+            "Modules\\BudgetUtilsModule\\App\\": "app/",
+            "Modules\\BudgetUtilsModule\\Database\\Factories\\": "database/factories/",
+            "Modules\\BudgetUtilsModule\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\BudgetUtilsModule\\Tests\\": "tests/"
+        }
+    }
+}

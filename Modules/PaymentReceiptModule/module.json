@@ -1,0 +1,11 @@
+{
+    "name": "PaymentReceiptModule",
+    "alias": "paymentreceiptmodule",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\PaymentReceiptModule\\Providers\\PaymentReceiptModuleServiceProvider"
+    ],
+    "files": []
+}
